@@ -1,0 +1,38 @@
+# COMPUTACIÓN EN LA NUBE
+
+
+
+
+
+## Proyecto
+
+
+| Práctica   | Enlace                                                                                  | Fecha límite     | RAs          |
+| ---------- | --------------------------------------------------------------------------------------- | ---------------- | ------------ |
+| `Proyecto` | [Proyecto *Computación en la nube* Curso 2026-27]()                            |  **x**  | `RAs`        |
+
+
+## Prácticas
+
+
+| Práctica   | Enlace                                                                                  | Fecha límite     | RAs          |
+| ---------- | --------------------------------------------------------------------------------------- | ---------------- | ------------ |
+| **UT01**   |**Introducción y preparación del entorno**                                               |              |
+| `PR0101`   | [Preparación del entorno](./ut01/practicas/pr0101_preparacion_entorno.md)               |  **20/09/2026**  | `RA1`        |
+|            |                                                                                         |                  |              |
+| **UT02**   |**Servicios de cómputo**                                                                 |                  |              |
+| `PR0201`   | [-]()                     |  **-**  | `RA-`        |
+|            |                                                                                         |                  |              |
+
+
+
+## Apuntes
+
+
+
+| Apartado   | Enlace                                                                                  | RAs          |
+| ---------- | --------------------------------------------------------------------------------------- | ------------ |
+| **UT01**   |**Introducción y preparación del entorno**                                                              |              |
+| `1.1`      | [xxxxxxxxxx](.)                            | `RA4`        |
+|            |                                            |              |
+| **UT02**   |**Servicios de cómputo**                                                                          |              |
