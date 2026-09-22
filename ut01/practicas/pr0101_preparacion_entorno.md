@@ -15,8 +15,6 @@ Resultados de aprendizaje:  XX
 
 Configurar el espacio de trabajo local (Docker/Jupyter), familiarizarse con el ciclo de vida del Learner Lab y realizar operaciones básicas en Amazon S3 mediante tres vías: Consola Web, AWS CloudShell (CLI) y SDK Boto3 (Python).
 
-* **Entregable:** Memoria en formato PDF con las capturas indicadas y explicaciones breves.
-
 ## Fase 0: Arranque del Laboratorio en AWS Academy
 
 1. Accede a tu curso de **AWS Academy Canvas** y entra en **Learner Lab**.

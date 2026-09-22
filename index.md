@@ -20,8 +20,8 @@
 | **UT01**   |**Introducción y preparación del entorno**                                               |              |
 | `PR0101`   | [Preparación del entorno](./ut01/practicas/pr0101_preparacion_entorno.md)               |  **20/09/2026**  | `RA1`        |
 |            |                                                                                         |                  |              |
-| **UT02**   |**Servicios de cómputo**                                                                 |                  |              |
-| `PR0201`   | [-]()                     |  **-**  | `RA-`        |
+| **UT02**   |**Servicios de almacenamiento**                                                          |                  |              |
+| `PR0201`   | [Despliegue de sitio web estático en AWS S3](./ut02/pr0201.md)                          |  **-**           | `RA-`        |
 |            |                                                                                         |                  |              |
 
 
