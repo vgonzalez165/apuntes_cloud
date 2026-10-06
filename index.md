@@ -23,7 +23,7 @@
 | **UT02**   |**Servicios de almacenamiento**                                                          |                  |              |
 | `PR0201`   | [Despliegue de sitio web estático en AWS S3](./ut02/pr0201.md)                          |  **-**           | `RA-`        |
 | `PR0202`   | [Acceso a AWS S3 desde Python](./ut02/pr0202.md)                                        |  **-**           | `RA-`        |
-|            |                                                                                         |                  |              |
+| `PR0203`   | [Protección contra desastres y optimización de almacenamiento](./ut02/pr0203.md)        |                  |              | 
 
 
 
