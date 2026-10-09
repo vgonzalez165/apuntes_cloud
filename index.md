@@ -28,5 +28,6 @@ title: COMPUTACIÓN EN LA NUBE (Curso 2026-27)
 |            |                                                                                         |                  |              | 
 | **UT03**   |**Servicios de cómputo**                                                                 |                  |              |
 | `PR0301`   | [Despliegue automatizado de servidor web en EC2](./ut03/pr0301.md)                      |  **-**           | `RA-`        |
+| `PR0302`   | [Volúmenes EBS y clonación de AMIs](./ut03/pr0302.md)                                   |  **-**           | `RA-`        |
 
 
