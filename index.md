@@ -1,16 +1,17 @@
+---
+layout: default
+title: COMPUTACIÓN EN LA NUBE (Curso 2026-27)
+---
+
 # COMPUTACIÓN EN LA NUBE
-
-
-
-
 
 ## Proyecto
 
 
 | Práctica   | Enlace                                                                                  | Fecha límite     | RAs          |
 | ---------- | --------------------------------------------------------------------------------------- | ---------------- | ------------ |
-| `Proyecto` | [Proyecto *Computación en la nube* Curso 2026-27]()                            |  **x**  | `RAs`        |
-
+| `Proyecto` | [Proyecto *Computación en la nube* Curso 2026-27]()                                     |  **x**           | `RAs`        |
+        
 
 ## Prácticas
 
@@ -23,4 +24,9 @@
 | **UT02**   |**Servicios de almacenamiento**                                                          |                  |              |
 | `PR0201`   | [Despliegue de sitio web estático en AWS S3](./ut02/pr0201.md)                          |  **-**           | `RA-`        |
 | `PR0202`   | [Acceso a AWS S3 desde Python](./ut02/pr0202.md)                                        |  **-**           | `RA-`        |
-| `PR0203`   | [Protección contra desastres y optimización de almacenamiento](./ut02/pr0203.md)        |                  |              | 
+| `PR0203`   | [Protección contra desastres y optimización de almacenamiento](./ut02/pr0203.md)        |                  |              |
+|            |                                                                                         |                  |              | 
+| **UT03**   |**Servicios de cómputo**                                                                 |                  |              |
+| `PR0301`   | [Despliegue automatizado de servidor web en EC2](./ut03/pr0301.md)                      |  **-**           | `RA-`        |
+
+
