@@ -29,7 +29,7 @@ title: COMPUTACIÓN EN LA NUBE (Curso 2026-27)
 | **UT03** | **Servicios de cómputo**                                                         |                |       |
 | `PR0301` | [Despliegue automatizado de servidor web en EC2](./ut03/pr0301.md)               | **23/10/2026** | `RA2` |
 | `PR0302` | [Volúmenes EBS y clonación de AMIs](./ut03/pr0302.md)                            | **-**          | `RA2` |
-| `PR0303` | [Arquitectura web redundante]()                                                  | **-**          | `RA2` |
+| `PR0303` | [Arquitectura web redundante](./ut03/pr0303.md)                                  | **-**          | `RA2` |
 | `PR0304` | [Despliegue de servicios en contenedores con Amazon ECS](./ut03/pr0304.md)       | **-**          | `RA2` |
 |          |                                                                                  |                |       |
 | **UT03** | **Redes y conectividad en la nube**                                              |                | `RA2` |
