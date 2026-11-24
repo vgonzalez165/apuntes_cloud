@@ -34,6 +34,9 @@ title: COMPUTACIÓN EN LA NUBE (Curso 2026-27)
 | `PR0305` | [Cómputo orientado a eventos con AWS Lambda y Amazon S3](./ut03/pr0305.md)       | **-**          | `RA2` |
 |          |                                                                                  |                |       |
 | **UT03** | **Redes y conectividad en la nube**                                              |                | `RA2` |
+| `PR0401` | [Diseño y construcción de una VPC desde cero](./ut04/pr0401.md)       | **12/12/2026** | `RA2` |
+
+Diseño y construcción de una VPC desde cero
 |          |                                                                                  |                |       |
 | **UT03** | **Automatización y orquestación en la nube**                                     |                | `RA3` |
 |          |                                                                                  |                |       |
